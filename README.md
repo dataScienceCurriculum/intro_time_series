@@ -1,4 +1,5 @@
 # Intro To Time Series
+The notebook file here on github comes from Google colab and may not be viewable on this Github webpage. Please open the Google colab link for notebook access.  
 https://colab.research.google.com/drive/14YWL9j_MVbDJ6LCCQvtq1R9jOLvBAttn?usp=sharing  
 Time series data is everywhere! Working with them is an important part of Data Science.
 # Description:  
